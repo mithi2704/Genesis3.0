@@ -3,9 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-
-  "homepage": "https://github.com/mithi2704/Genesis3.0",
-
+  "homepage": "https://mithi2704.github.io/Genesis3.0/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -14,7 +12,6 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
-
   "dependencies": {
     "framer-motion": "^12.41.0",
     "react": "^19.2.7",
@@ -29,7 +26,6 @@
     "tsparticles": "^4.2.1",
     "tsparticles-slim": "^2.12.0"
   },
-
   "devDependencies": {
     "@eslint/js": "^10.0.1",
     "@tailwindcss/vite": "^4.3.1",
